@@ -1,2 +1,2 @@
 # githubTestOne
-initial try at github ad vs code
+initial try at github and vs code
